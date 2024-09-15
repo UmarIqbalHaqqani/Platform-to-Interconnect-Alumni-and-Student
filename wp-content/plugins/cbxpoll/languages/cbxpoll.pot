@@ -1,0 +1,951 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-28 11:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-cbxpoll-admin.php:1730
+#, php-format
+msgid ""
+"<a target=\"_blank\" href=\"%s\">CBX Poll Pro Addon</a> has some extra pro "
+"features, try it. - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1103
+msgid ""
+"<p>[<strong>Note : </strong>  <span>Please select different color for each "
+"field.]</span></p>"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1666
+msgid ""
+"<strong>CBX Poll Pro Addon</strong> has been deactivated as it's not "
+"compatible with core plugin <strong>CBX Poll</strong> current installed "
+"version. Please upgrade CBX Poll Pro Addon to latest version "
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:844
+msgid ""
+"<strong>Please note that this process can not be undone and it is "
+"recommended to keep full database backup before doing this.</strong>"
+msgstr ""
+
+#: admin/partials/dashboard.php:168
+msgid "Access our Premium Support"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:966 admin/class-cbxpoll-admin.php:974
+msgid "Active"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1161
+msgid "Add Text Answer"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:721
+msgid "Allow Guest User to Sign"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:320
+msgid "Answer"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1541
+#, php-format
+msgid "Answer %d"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:709
+msgid "Answer Display Format"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1849
+#: widgets/vc-elements/class-cbxpollsingle-wpbwidget.php:104
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:171
+#: widgets/classic-widgets/cbxpollsingle-widget/views/admin.php:54
+msgid "Answer Format"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:455 includes/class-cbxpoll-helper.php:472
+msgid "Approved"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:242 admin/class-cbxpoll-admin.php:321
+msgid "Are you sure to delete this item?"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:859
+msgid "Are you sure to reset all data, this process can not be undone?"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:800
+msgid "Background Colour"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:792
+msgid "Base Color"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:808
+msgid "Body Background Color"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:816
+msgid "Body Text Color"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:704
+msgid "Both(IP or cookie any one)"
+msgstr ""
+
+#: admin/partials/dashboard.php:86
+msgid "Buddypress"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:622 includes/class-cbxpoll-helper.php:1496
+msgid "Can user vote multiple option"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1951
+msgid "CBX Blocks"
+msgstr ""
+
+#. Name of the plugin
+#: includes/class-cbxpoll-helper.php:105
+#: widgets/vc-elements/class-cbxpollsingle-wpbwidget.php:61
+msgid "CBX Poll"
+msgstr ""
+
+#: admin/partials/dashboard.php:19
+msgid "CBX Poll - Helps & Updates"
+msgstr ""
+
+#: admin/partials/settings-display.php:24
+msgid "CBX Poll - Settings"
+msgstr ""
+
+#: admin/partials/dashboard.php:189
+msgid "CBX Poll Plugin Information"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1838
+msgid "CBX Poll Single Block"
+msgstr ""
+
+#: widgets/classic-widgets/cbxpollsingle-widget/cbxpollsingle-widget.php:50
+#: widgets/classic-widgets/cbxpollsingle-widget/cbxpollsingle-widget.php:91
+msgid "CBX Poll Single Widget"
+msgstr ""
+
+#: widgets/vc-elements/class-cbxpollsingle-wpbwidget.php:62
+msgid "CBX Poll Widget"
+msgstr ""
+
+#: admin/partials/admin-settings-display.php:19
+msgid "CBX Poll: Setting"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:104
+msgid "CBX Polls"
+msgstr ""
+
+#: widgets/vc-elements/class-cbxpollsingle-wpbwidget.php:65
+msgid "CBX Widgets"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1842
+msgid "CBXPoll Single Block Settings"
+msgstr ""
+
+#: widgets/classic-widgets/cbxpollsingle-widget/cbxpollsingle-widget.php:160
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:41
+msgid "CBXPoll Single Widget"
+msgstr ""
+
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:86
+msgid "CBXPoll Single Widget Setting"
+msgstr ""
+
+#: admin/partials/dashboard.php:217
+msgid "Changelog"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1845
+#: widgets/vc-elements/class-cbxpollsingle-wpbwidget.php:80
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:144
+#: widgets/classic-widgets/cbxpollsingle-widget/views/admin.php:26
+msgid "Chart Type"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:237 admin/class-cbxpoll-admin.php:315
+#: admin/class-cbxpoll-admin.php:993 admin/class-cbxpoll-admin.php:1333
+msgid "Click to copy"
+msgstr ""
+
+#: includes/class-cbxpolll-settings.php:236
+#: includes/class-cbxpolll-settings.php:237
+msgid "Click to show hide"
+msgstr ""
+
+#. Author of the plugin
+msgid "codeboxr"
+msgstr ""
+
+#: admin/partials/dashboard.php:258 admin/partials/sidebar.php:84
+msgid "Codeboxr News Updates"
+msgstr ""
+
+#: public/class-cbxpoll-public.php:894
+msgid "Codeboxr Widgets"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1726
+msgid ""
+"Compatibility issue: CBX Poll V1.2.2 or later needs CBX Poll Pro Addon V1.1."
+"3 or later. Please update CBX Poll Pro Addon to version 1.1.3 or later  - "
+"Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:703
+msgid "Cookie"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:686
+msgid "Cookie Expiration Days"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:238 admin/class-cbxpoll-admin.php:316
+msgid "Copied to clipboard"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:932
+msgid "Created"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:776
+msgid "Default Email Settings"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:728
+msgid ""
+"Default guest user is shown wordpress core login form. Pro addon helps to "
+"integrate 3rd party plugins like woocommerce, restrict content pro etc."
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:842
+msgid ""
+"Delete Global Config data and custom table created by this plugin on "
+"uninstall."
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:843
+msgid ""
+"Details table information is <a href=\"#cbxpoll_plg_gfig_info\">here</a>"
+msgstr ""
+
+#: widgets/classic-widgets/cbxpollsingle-widget/cbxpollsingle-widget.php:53
+msgid "Displays single poll from CBX Poll"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:980 includes/class-cbxpoll-helper.php:1074
+msgid ""
+"Do you have account and want to vote as registered user? Please <a  "
+"href=\"#\">login</a>"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1596
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:241 admin/class-cbxpoll-admin.php:319
+msgid "Drag and Drop to reorder answers"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:1542
+msgid "Drag and Drop to reorder poll answers"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:494
+msgid "Email Setting"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:621 includes/class-cbxpoll-helper.php:1495
+msgid "Enable Multi Choice"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:931 includes/class-cbxpoll-helper.php:1423
+msgid "End Date"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1390
+msgid "Error: Answer Color repeat error"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1447
+msgid "Error:: Start or End date any one empty"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:977
+msgid "Expired"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1679 admin/class-cbxpoll-admin.php:1695
+#, php-format
+msgid ""
+"Explore <a href=\"%s\" target=\"_blank\">Plugin Setting</a> | <a href=\"%s\" "
+"target=\"_blank\">Documentation</a>"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:525
+msgid "Following database tables will be reset/deleted."
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:557
+msgid ""
+"Following option values created by this plugin(including addon) from "
+"wordpress core option table"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:824
+msgid "Footer Text"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:687
+msgid ""
+"For guest user cookie is placed in browser, For how many days cookie will "
+"not expire. Default is 30 days"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1582
+msgid "Free Support"
+msgstr ""
+
+#: admin/partials/dashboard.php:36
+msgid "Get Free & Pro Addons"
+msgstr ""
+
+#: admin/partials/dashboard.php:23
+msgid "Go to Settings"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:716 admin/class-cbxpoll-admin.php:1812
+#: widgets/vc-elements/class-cbxpollsingle-wpbwidget.php:108
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:175
+#: widgets/classic-widgets/cbxpollsingle-widget/views/admin.php:58
+msgid "Grid"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:522 includes/class-cbxpoll-helper.php:540
+msgid "Guest"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:727
+msgid "Guest User Login Form"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:782
+msgid "Header Image"
+msgstr ""
+
+#: admin/partials/dashboard.php:156 admin/partials/sidebar.php:20
+msgid "Help & Supports"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:887 admin/class-cbxpoll-admin.php:888
+msgid "Helps & Updates"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codeboxr.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codeboxr.com/product/cbx-poll-for-wordpress/"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:663
+msgid ""
+"If set polls will never expire. You can also set individual poll end time."
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:702
+msgid "IP"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:715 admin/class-cbxpoll-admin.php:1811
+#: widgets/vc-elements/class-cbxpollsingle-wpbwidget.php:107
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:174
+#: widgets/classic-widgets/cbxpollsingle-widget/views/admin.php:57
+msgid "List"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:696
+msgid "Log Method"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:697
+msgid ""
+"Logging method. [<strong> Note:</strong> Please Select at least one or a "
+"guest user will vote multiple time for a poll.]"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:240 admin/class-cbxpoll-admin.php:318
+#: includes/class-cbxpoll-helper.php:1543
+msgid "Move"
+msgstr ""
+
+#: admin/partials/dashboard.php:101
+msgid "myCred"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:662 includes/class-cbxpoll-helper.php:1452
+msgid "Never Expire"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:627 admin/class-cbxpoll-admin.php:657
+#: admin/class-cbxpoll-admin.php:669 admin/class-cbxpoll-admin.php:681
+#: admin/class-cbxpoll-admin.php:741 admin/class-cbxpoll-admin.php:849
+#: admin/class-cbxpoll-admin.php:1128 admin/class-cbxpoll-admin.php:1798
+#: includes/class-cbxpoll-helper.php:1447
+#: includes/class-cbxpoll-helper.php:1459
+#: includes/class-cbxpoll-helper.php:1472
+#: includes/class-cbxpoll-helper.php:1502
+#: widgets/vc-elements/class-cbxpollsingle-wpbwidget.php:95
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:160
+#: widgets/classic-widgets/cbxpollsingle-widget/views/admin.php:48
+msgid "No"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:994 includes/class-cbxpoll-helper.php:1088
+#, php-format
+msgid "No account yet? <a href=\"%s\">Register</a>"
+msgstr ""
+
+#: public/class-cbxpoll-public.php:209
+msgid "No approved vote yet"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1129
+msgid "No comments"
+msgstr ""
+
+#: public/class-cbxpoll-public.php:312
+msgid "No poll found"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:731
+msgid ""
+"Note: Poll is not published yet or poll doesn't exists. You are checking "
+"this as administrator/editor."
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:691
+msgid "Number of days"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:244 admin/class-cbxpoll-admin.php:323
+msgid "Oh! No"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:841
+msgid "On Uninstall delete plugin data"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:567 admin/class-cbxpoll-admin.php:589
+msgid "Option ID"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:566 admin/class-cbxpoll-admin.php:588
+msgid "Option Name"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:568 admin/class-cbxpoll-admin.php:590
+msgid "Option Value"
+msgstr ""
+
+#: admin/partials/dashboard.php:109 admin/partials/sidebar.php:46
+msgid "Other WordPress Plugins"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:754
+#, php-format
+msgid ""
+"Please save <a target=\"_blank\" href=\"%s\">permalink</a> once after "
+"changing any slug."
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1306
+msgid "Please save the post once to enter poll answers."
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:247 admin/class-cbxpoll-admin.php:333
+#: admin/class-cbxpoll-admin.php:362
+msgid "Please select"
+msgstr ""
+
+#: public/class-cbxpoll-public.php:249
+msgid "Please select at least one answer"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1843
+msgid "Poll"
+msgstr ""
+
+#. Description of the plugin
+msgid "Poll and vote system for WordPress"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1102
+msgid "Poll Answers"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:767
+msgid "Poll archive srl slug"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:486 admin/class-cbxpoll-admin.php:606
+msgid "Poll Default Settings"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:760
+msgid "Poll details url slug"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:1424
+msgid ""
+"Poll End Date.  [<strong> Note:</strong> Field required. Default is next "
+"seven days. ]"
+msgstr ""
+
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:123
+msgid "poll id here"
+msgstr ""
+
+#: widgets/classic-widgets/cbxpollsingle-widget/cbxpollsingle-widget.php:119
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:205
+msgid "Poll id missing or poll doesn't exists"
+msgstr ""
+
+#. $id
+#: admin/class-cbxpoll-admin.php:1026
+msgid "Poll Options"
+msgstr ""
+
+#: widgets/vc-elements/class-cbxpollsingle-wpbwidget.php:72
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:121
+msgid "Poll Post ID"
+msgstr ""
+
+#. $id
+#: admin/class-cbxpoll-admin.php:1034
+msgid "Poll Result"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:613
+msgid ""
+"Poll result display styles, text and polar area display type are free, you "
+"can buy more display option from <a href=\"https://codeboxr.com/product/cbx-"
+"poll-for-wordpress/\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:877
+msgid "Poll Settings"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:748
+msgid "Poll Slugs and Urls"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:1416
+msgid ""
+"Poll Start Date. [<strong> Note:</strong> Field required. Default is today]"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:1198
+msgid "Poll Status: Yet to start"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:928
+msgid "Poll Title"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:884
+msgid "Polls"
+msgstr ""
+
+#: widgets/vc-elements/class-cbxpollsingle-wpbwidget.php:76
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:126
+msgid "Put poll post id"
+msgstr ""
+
+#: admin/partials/dashboard.php:180
+msgid "Quick Support (Email)"
+msgstr ""
+
+#: admin/partials/dashboard.php:208
+msgid "Rate Our Plugin"
+msgstr ""
+
+#: admin/partials/dashboard.php:199
+msgid "Read the CBX Poll User Guide"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:239 admin/class-cbxpoll-admin.php:317
+#: includes/class-cbxpoll-helper.php:1558
+msgid "Remove"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:856
+msgid "Reset all data"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:857
+#, php-format
+msgid ""
+"Reset option values and all tables created by this plugin. \n"
+"<a class=\"button button-primary\" onclick=\"return confirm('%s')\" "
+"href=\"%s\">Reset Data</a>"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:612 includes/class-cbxpoll-helper.php:1487
+msgid "Result Chart Style"
+msgstr ""
+
+#: admin/partials/sidebar.php:42
+msgid "Review This Plugin"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1584
+msgid "Reviews"
+msgstr ""
+
+#: includes/class-cbxpolll-settings.php:868
+#: admin/partials/admin-settings-display.php:21
+#: admin/partials/settings-display.php:30
+msgid "Save Settings"
+msgstr ""
+
+#: widgets/vc-elements/class-cbxpollsingle-wpbwidget.php:85
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:146
+msgid "Select Chart Type"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:1488
+msgid "Select how you want to show poll result."
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:675 includes/class-cbxpoll-helper.php:1465
+msgid ""
+"Select if you want poll to show result before expires. After expires the "
+"result will be shown always. Please check it if poll never expires."
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:1441
+msgid "Select if you want to show content."
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1764
+#: widgets/classic-widgets/cbxpollsingle-widget/views/admin.php:17
+msgid "Select Poll"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:646
+msgid "Select user roles"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:878 admin/class-cbxpoll-admin.php:1559
+msgid "Settings"
+msgstr ""
+
+#. $id
+#: admin/class-cbxpoll-admin.php:934 admin/class-cbxpoll-admin.php:1042
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:652
+msgid "Show description from poll post type"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:651
+msgid "Show Poll Description"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1847
+#: widgets/vc-elements/class-cbxpollsingle-wpbwidget.php:91
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:156
+#: widgets/classic-widgets/cbxpollsingle-widget/views/admin.php:41
+msgid "Show Poll description"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:1440
+msgid "Show Poll Description in shortcode"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:735
+msgid "Show Register link to guest"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:736
+msgid ""
+"Show register link to guest, depends on if registration is enabled in "
+"wordpress core"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:674 includes/class-cbxpoll-helper.php:1464
+msgid "Show result before expires"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:521
+msgid "Show/hide details"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:768
+msgid "Slug used for permalink for poll archive url"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:761
+msgid "Slug used for permalink for poll details url"
+msgstr ""
+
+#: public/class-cbxpoll-public.php:639
+msgid "Sorry, poll didn't start yet."
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:734
+msgid "Sorry, poll is not published yet or poll doesn't exists."
+msgstr ""
+
+#: public/class-cbxpoll-public.php:765
+msgid "Sorry, something wrong while voting, please refresh this page"
+msgstr ""
+
+#: public/class-cbxpoll-public.php:658
+msgid "Sorry, you are not allowed to vote."
+msgstr ""
+
+#: public/class-cbxpoll-public.php:648
+msgid "Sorry, you can not vote. Poll has already expired."
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:456 includes/class-cbxpoll-helper.php:473
+msgid "Spam"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:930 includes/class-cbxpoll-helper.php:1415
+msgid "Start Date"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:929
+msgid "Status"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:243 admin/class-cbxpoll-admin.php:322
+msgid "Sure"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:531 admin/class-cbxpoll-admin.php:551
+msgid "Table Name"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:532 admin/class-cbxpoll-admin.php:552
+msgid "Table Name in DB"
+msgstr ""
+
+#: public/class-cbxpoll-public.php:143
+msgid "Text"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1677
+#, php-format
+msgid ""
+"Thanks for installing/deactivating <strong>CBX Poll</strong> V%s - <a "
+"href=\"%s\" target=\"_blank\">Codeboxr Team</a>"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1693
+#, php-format
+msgid ""
+"Thanks for upgrading <strong>CBX Poll</strong> V%s , enjoy the new features "
+"and bug fixes - <a href=\"%s\" target=\"_blank\">Codeboxr Team</a>"
+msgstr ""
+
+#: public/class-cbxpoll-public.php:819
+msgid "Thanks for voting!"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:801
+msgid "The background color of the email."
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:809
+msgid "The background colour of the main body of email."
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:793
+msgid "The base color of the email."
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:817
+msgid "The body text colour of the main body of email."
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:926 includes/class-cbxpoll-helper.php:929
+#, php-format
+msgid ""
+"The Poll is out of date. You have already voted for <strong>\"%s\"</strong>"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:935
+msgid "The Poll is out of date. You have not voted."
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:825
+msgid "The text to appear at the email footer. Syntax available - {sitename}"
+msgstr ""
+
+#: admin/partials/dashboard.php:69
+msgid "Third Party plugin Integration"
+msgstr ""
+
+#: widgets/classic-widgets/cbxpollsingle-widget/views/admin.php:11
+msgid "Title"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:498
+msgid "Tools"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:835
+msgid "Tools Settings"
+msgstr ""
+
+#: public/class-cbxpoll-public.php:170
+#, php-format
+msgid "Total votes: %d"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:710
+msgid ""
+"Traditionally answer is shown as vericala list but sometimes grid "
+"presentation better for user experience."
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1591
+msgid "Try Pro"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:454 includes/class-cbxpoll-helper.php:471
+msgid "Unapproved"
+msgstr ""
+
+#: public/class-cbxpoll-public.php:177 public/class-cbxpoll-public.php:193
+msgid "Unknown Answer"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:914 includes/class-cbxpoll-helper.php:1027
+msgid "Unknown or answer deleted"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:457 includes/class-cbxpoll-helper.php:474
+msgid "Unverified"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:783
+msgid ""
+"Url To email you want to show as email header. Upload Image by media "
+"uploader."
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:490
+msgid "Urls & Slugs"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1791
+#: widgets/vc-elements/class-cbxpollsingle-wpbwidget.php:30
+#: widgets/vc-elements/class-cbxpollsingle-wpbwidget.php:96
+#: widgets/vc-elements/class-cbxpollsingle-wpbwidget.php:109
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:138
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:161
+#: widgets/classic-widgets/cbxpollsingle-widget/views/admin.php:37
+#: widgets/classic-widgets/cbxpollsingle-widget/views/admin.php:50
+#: widgets/classic-widgets/cbxpollsingle-widget/views/admin.php:60
+msgid "Use from poll post setting"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:1799 admin/class-cbxpoll-admin.php:1813
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:176
+msgid "Use Poll Post Setting"
+msgstr ""
+
+#: public/class-cbxpoll-public.php:326
+msgid "View More Polls"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:1168
+msgid "Vote"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:933
+msgid "Votes"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:1432
+msgid "Which user role will have vote capability"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:633
+msgid "which user role will have vote capability"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:632 includes/class-cbxpoll-helper.php:1431
+msgid "Who Can Vote"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:1845
+msgid "WordPress Core Login Form"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:626 admin/class-cbxpoll-admin.php:656
+#: admin/class-cbxpoll-admin.php:668 admin/class-cbxpoll-admin.php:680
+#: admin/class-cbxpoll-admin.php:740 admin/class-cbxpoll-admin.php:848
+#: admin/class-cbxpoll-admin.php:1127 admin/class-cbxpoll-admin.php:1797
+#: includes/class-cbxpoll-helper.php:1446
+#: includes/class-cbxpoll-helper.php:1458
+#: includes/class-cbxpoll-helper.php:1471
+#: includes/class-cbxpoll-helper.php:1501
+#: widgets/vc-elements/class-cbxpollsingle-wpbwidget.php:94
+#: widgets/elementor-elements/cbxpollsingle-elemwidget/class-cbxpollsingle-elemwidget.php:159
+#: widgets/classic-widgets/cbxpollsingle-widget/views/admin.php:46
+msgid "Yes"
+msgstr ""
+
+#: admin/class-cbxpoll-admin.php:963 admin/class-cbxpoll-admin.php:971
+msgid "Yet to Start"
+msgstr ""
+
+#: public/class-cbxpoll-public.php:742
+msgid "You already voted this poll !"
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:962
+msgid "You are not allowed to vote."
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:1043
+msgid "You have already voted "
+msgstr ""
+
+#: includes/class-cbxpoll-helper.php:1040
+#, php-format
+msgid "You have already voted for <strong>\"%s\"</strong>"
+msgstr ""

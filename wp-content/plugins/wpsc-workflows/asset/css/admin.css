@@ -1,0 +1,59 @@
+.wpsc-action-container,
+.wpsc-action-container .wf-actions,
+.wf-action-item,
+.wf-action-header,
+.wf-action-body,
+.wf-cf-container {
+	width: 100%;
+	display: flex;
+	box-sizing: border-box;
+}
+.wpsc-action-container {
+	flex-direction: column;
+	align-items: center;
+	gap: 15px;
+	border: 1px dashed #000;
+	border-radius: 5px;
+	padding: 15px;
+}
+.wpsc-action-container .wf-actions {
+	flex-direction: column;
+	gap: 15px;
+}
+.wf-action-item {
+	flex-direction: column;
+	border: 1px solid #dcdcdc;
+	border-radius: 5px;
+}
+.wf-action-header {
+	flex-direction: row;
+	gap: 5px;
+	padding: 10px 15px;
+	background-color: #dcdcdc;
+}
+.wf-action-title {
+	width: 100%;
+}
+.wf-remove-action {
+	display: flex;
+	align-items: center;
+	cursor: pointer;
+}
+.wf-action-header svg {
+	width: 18px;
+	color: #c3c3c3;
+}
+.wf-action-body {
+	flex-direction: column;
+	align-items: flex-start;
+	padding: 15px;
+	gap: 15px;
+}
+.wf-action-body .wpsc-input-group {
+	padding: 0;
+}
+.wf-cf-container {
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 15px;
+}

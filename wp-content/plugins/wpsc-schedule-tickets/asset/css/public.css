@@ -1,0 +1,22 @@
+/* Schedule tickets */
+.wpsc-st-rec-setting-radio-container {
+	display: flex;
+	width: 100%;
+	box-sizing: border-box;
+	align-items: center;
+	margin: 3px 0;
+}
+.wpsc-st-rec-setting-radio-container input[type="radio"] {
+	margin-top: 0;
+}
+.wpsc-st-rec-setting-radio-container input[type="number"],
+.wpsc-st-rec-setting-radio-container input[type="text"],
+.wpsc-st-rec-setting-radio-container select {
+	width: 100px !important;
+}
+.wpsc-st-rec-setting-radio-container .checkbox-container {
+	margin-right: 10px;
+}
+.wpsc-st-rec-setting-radio-container .checkbox-container label {
+	font-weight: 400;
+}

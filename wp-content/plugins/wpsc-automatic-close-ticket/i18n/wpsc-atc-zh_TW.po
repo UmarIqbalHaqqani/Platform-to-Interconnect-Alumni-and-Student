@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpsc-atc\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-19 20:53+0800\n"
+"PO-Revision-Date: 2022-08-23 10:14+0530\n"
+"Last-Translator: Alen Lin\n"
+"Language-Team: Chinese (Taiwan)\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 131494\n"
+"X-Loco-Api-Version: 1.0.26 20220711-1\n"
+
+#: includes/class-wpsc-atc-email-templates.php:41
+#: includes/class-wpsc-atc-email-templates.php:61
+#: includes/class-wpsc-atc-settings.php:54
+#: includes/class-wpsc-atc-settings.php:76 loco:62ff87eb84698252d8658da1
+msgid "Automatic Close Tickets"
+msgstr "自動關閉案件"
+
+#: includes/class-wpsc-atc-email-templates.php:70
+#: includes/class-wpsc-atc-email-templates.php:262
+#: loco:62ff87eb84698252d8658da2
+msgid "Days before closing"
+msgstr "關閉案件前幾天"
+
+#: includes/class-wpsc-atc-settings.php:85 loco:62ff87eb84698252d8658da3
+msgid "Ticket status to check for auto-close"
+msgstr "檢查自動關閉的案件狀態"
+
+#: includes/class-wpsc-atc-settings.php:105 loco:62ff87eb84698252d8658da4
+msgid "Age (days)"
+msgstr "存在時間（天）"
+
+#: includes/class-wpsc-atc-settings.php:112 loco:62ff87eb84698252d8658da5
+msgid "Close status"
+msgstr "結案狀態"
+
+#. Plugin Name of the plugin/theme
+#: loco:62ff87eb84698252d8658da6
+msgid "SupportCandy - Automatic close tickets"
+msgstr "自動關閉案件"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+#: loco:62ff87eb84698252d8658da7
+msgid "https://supportcandy.net/"
+msgstr "https://supportcandy.net/"
+
+#. Description of the plugin/theme
+#: loco:62ff87eb84698252d8658da8
+msgid "Close ticket automatically after x days of inactivity for chosen statuses."
+msgstr "x 天未更新後自動關閉案件."
+
+#. Author of the plugin/theme
+#: loco:62ff87eb84698252d8658da9
+msgid "SupportCandy"
+msgstr "客服系統"

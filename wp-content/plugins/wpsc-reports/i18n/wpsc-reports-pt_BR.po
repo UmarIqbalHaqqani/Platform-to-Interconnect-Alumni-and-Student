@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SupportCandy - Reports\n"
+"POT-Creation-Date: 2022-07-22 16:58+0530\n"
+"PO-Revision-Date: 2022-10-22 19:00-0300\n"
+"Last-Translator: San Arakaki <sandro@skaa.com.br>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpsc-reports.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/class-wpsc-rp-admin-submenu.php:71
+#: includes/class-wpsc-rp-admin-submenu.php:72
+#: includes/class-wpsc-rp-admin-submenu.php:167
+#: includes/class-wpsc-rp-settings.php:114
+msgid "Reports"
+msgstr "Relatórios"
+
+#: includes/class-wpsc-rp-admin-submenu.php:94
+#: includes/reports/class-wpsc-rp-ticket-statistics.php:32
+msgid "Ticket Statistics"
+msgstr "Estatísticas do Ticket"
+
+#: includes/class-wpsc-rp-admin-submenu.php:104
+#: includes/reports/class-wpsc-rp-response-delay.php:32
+msgid "Response Delay"
+msgstr "Atraso da resposta"
+
+#: includes/class-wpsc-rp-admin-submenu.php:114
+#: includes/reports/class-wpsc-rp-closing-delay.php:32
+msgid "Ticket Closing Delay"
+msgstr "Atraso no Fechamento do Ticket"
+
+#: includes/class-wpsc-rp-admin-submenu.php:124
+#: includes/reports/class-wpsc-rp-communication-gap.php:32
+msgid "Communication Gap"
+msgstr "Intervalo da Comunicação"
+
+#: includes/class-wpsc-rp-filters.php:34
+msgid "Duration"
+msgstr "Duração"
+
+#: includes/class-wpsc-rp-filters.php:36
+#: includes/class-wpsc-rp-settings.php:143
+msgid "Today"
+msgstr "Hoje"
+
+#: includes/class-wpsc-rp-filters.php:37
+#: includes/class-wpsc-rp-settings.php:144
+msgid "Yesterday"
+msgstr "Ontem"
+
+#: includes/class-wpsc-rp-filters.php:38
+#: includes/class-wpsc-rp-settings.php:145
+msgid "This Week"
+msgstr "Esta Semana"
+
+#: includes/class-wpsc-rp-filters.php:39
+#: includes/class-wpsc-rp-settings.php:146
+msgid "Last Week"
+msgstr "Última Semana"
+
+#: includes/class-wpsc-rp-filters.php:40
+#: includes/class-wpsc-rp-settings.php:147
+msgid "Last 30 Days"
+msgstr "Últimos 30 Dias"
+
+#: includes/class-wpsc-rp-filters.php:41
+#: includes/class-wpsc-rp-settings.php:148
+msgid "This Month"
+msgstr "Este Mês"
+
+#: includes/class-wpsc-rp-filters.php:42
+#: includes/class-wpsc-rp-settings.php:149
+msgid "Last Month"
+msgstr "Último Mês"
+
+#: includes/class-wpsc-rp-filters.php:43
+#: includes/class-wpsc-rp-settings.php:150
+msgid "This Quarter"
+msgstr "Este Trimestre"
+
+#: includes/class-wpsc-rp-filters.php:44
+#: includes/class-wpsc-rp-settings.php:151
+msgid "Last Quarter"
+msgstr "Último Trimestre"
+
+#: includes/class-wpsc-rp-filters.php:45
+#: includes/class-wpsc-rp-settings.php:152
+msgid "This Year"
+msgstr "Este Ano"
+
+#: includes/class-wpsc-rp-filters.php:46
+#: includes/class-wpsc-rp-settings.php:153
+msgid "Last Year"
+msgstr "Último Ano"
+
+#: includes/class-wpsc-rp-filters.php:47 includes/class-wpsc-rp-filters.php:82
+#: includes/class-wpsc-rp-filters.php:406
+#: includes/class-wpsc-rp-filters.php:492
+msgid "Custom"
+msgstr "Personalizado"
+
+#: includes/class-wpsc-rp-filters.php:179
+msgid "Custom Filter"
+msgstr "Filtro Personalizado"
+
+#: includes/class-wpsc-rp-settings.php:135
+msgid "Report Settings"
+msgstr "Configurações de Relatórios"
+
+#: includes/class-wpsc-rp-settings.php:140
+msgid "Default Duration"
+msgstr "Duração Padrão"
+
+#: includes/class-wpsc-rp-settings.php:159
+msgid "Generate reports for custom fields"
+msgstr "Gerar relatórios de campos personalizados"
+
+#: includes/class-wpsc-rp-settings.php:257
+#: includes/class-wpsc-rp-settings.php:285
+msgid "View Reports"
+msgstr "Ver Relatórios"
+
+#: includes/reports/class-wpsc-rp-closing-delay.php:37
+#: includes/reports/class-wpsc-rp-communication-gap.php:37
+#: includes/reports/class-wpsc-rp-response-delay.php:37
+#: includes/reports/class-wpsc-rp-ticket-statistics.php:37
+#: includes/reports/custom-field-types/class-wpsc-rp-category.php:85
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:80
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:80
+#: includes/reports/custom-field-types/class-wpsc-rp-priority.php:80
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:80
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:80
+msgid "From Date"
+msgstr "Da Data"
+
+#: includes/reports/class-wpsc-rp-closing-delay.php:41
+#: includes/reports/class-wpsc-rp-communication-gap.php:41
+#: includes/reports/class-wpsc-rp-response-delay.php:41
+#: includes/reports/class-wpsc-rp-ticket-statistics.php:41
+#: includes/reports/custom-field-types/class-wpsc-rp-category.php:89
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:84
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:84
+#: includes/reports/custom-field-types/class-wpsc-rp-priority.php:84
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:84
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:84
+msgid "To Date"
+msgstr "Até a Data"
+
+#: includes/reports/class-wpsc-rp-closing-delay.php:66
+msgid "Average Closing Delay (Days)"
+msgstr "Atraso Médio de Fechamento (Dias)"
+
+#: includes/reports/class-wpsc-rp-communication-gap.php:66
+msgid "Average communication gap for this period"
+msgstr "Intervalo médio da comunicação para este período"
+
+#: includes/reports/class-wpsc-rp-response-delay.php:66
+msgid "First Response Delay (Hours)"
+msgstr "Atraso na Primeira Resposta (Horas)"
+
+#: includes/reports/class-wpsc-rp-response-delay.php:67
+msgid "Average Response Delay (Hours)"
+msgstr "Atraso Médio das Respostas (Horas)"
+
+#: includes/reports/class-wpsc-rp-ticket-statistics.php:66
+msgid "Total tickets created"
+msgstr "Total de tickets criados"
+
+#: includes/reports/class-wpsc-rp-ticket-statistics.php:67
+msgid "Total tickets closed"
+msgstr "Total de tickets fechados"
+
+#. Plugin Name of the plugin/theme
+msgid "SupportCandy - Reports"
+msgstr "Relatórios - SupportCandy"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://supportcandy.net/"
+msgstr "https://supportcandy.net/"
+
+#. Description of the plugin/theme
+msgid "Reports for SupportCandy"
+msgstr "Relatórios para SupportCandy"
+
+#. Author of the plugin/theme
+msgid "SupportCandy"
+msgstr "SupportCandy"

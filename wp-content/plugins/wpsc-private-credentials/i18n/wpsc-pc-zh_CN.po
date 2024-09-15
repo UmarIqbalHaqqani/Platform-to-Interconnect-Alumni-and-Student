@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SupportCandy - Private Credentials\n"
+"POT-Creation-Date: 2022-07-22 16:58+0530\n"
+"PO-Revision-Date: 2022-07-26 08:24+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpsc_private_credentials.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: class-wpsc-pc-installation.php:187
+msgid "Private credentials"
+msgstr "私有凭据"
+
+#: includes/class-wpsc-pc-actions.php:56 includes/class-wpsc-pc-actions.php:151
+msgid "View Credentials"
+msgstr "查看凭据"
+
+#: includes/class-wpsc-pc-actions.php:76 includes/class-wpsc-pc-actions.php:171
+msgid "Modify Credentials"
+msgstr "修改凭据"
+
+#: includes/class-wpsc-pc-actions.php:96 includes/class-wpsc-pc-actions.php:191
+msgid "Delete Credentials"
+msgstr "删除凭据"
+
+#: includes/widget/class-wpsc-itw-pc.php:191
+#: includes/widget/class-wpsc-itw-pc.php:522
+msgid "Fields"
+msgstr "字段"
+
+#: includes/widget/class-wpsc-itw-pc.php:196
+#: includes/widget/class-wpsc-itw-pc.php:577
+msgid "+ Textfield"
+msgstr "+ 文本框"
+
+#: includes/widget/class-wpsc-itw-pc.php:199
+#: includes/widget/class-wpsc-itw-pc.php:580
+msgid "+ Textarea"
+msgstr "+ 文本域"
+
+#: includes/widget/class-wpsc-itw-pc.php:211
+#: includes/widget/class-wpsc-itw-pc.php:229
+#: includes/widget/class-wpsc-itw-pc.php:414
+#: includes/widget/class-wpsc-itw-pc.php:540
+#: includes/widget/class-wpsc-itw-pc.php:561
+#: includes/widget/class-wpsc-itw-pc.php:592
+#: includes/widget/class-wpsc-itw-pc.php:610
+msgid "Value"
+msgstr "值"
+
+#: includes/widget/class-wpsc-itw-pc.php:509
+msgid "Edit credential"
+msgstr "编辑凭据"
+
+#. Plugin Name of the plugin/theme
+msgid "SupportCandy - Private Credentials"
+msgstr "SupportCandy任务单系统 - 私有凭据"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://supportcandy.net/"
+msgstr "https://supportcandy.net/"
+
+#. Description of the plugin/theme
+msgid "Private Credentials add-on for SupportCandy"
+msgstr "用于SupportCandy任务单系统的私有凭据插件"
+
+#. Author of the plugin/theme
+msgid "SupportCandy"
+msgstr "SupportCandy任务单系统"

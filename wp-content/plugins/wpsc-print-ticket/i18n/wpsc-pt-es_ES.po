@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SupportCandy - Print Tickets\n"
+"POT-Creation-Date: 2023-05-24 11:10+0530\n"
+"PO-Revision-Date: 2023-05-24 11:10+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpsc-print-ticket.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: class-wpsc-print-installation.php:116
+#: includes/settings/class-wpsc-pt-settings-general.php:35
+#: includes/settings/class-wpsc-pt-settings.php:68
+msgid "Print"
+msgstr "Imprimir"
+
+#: includes/class-wpsc-print-license.php:108
+#: includes/class-wpsc-print-license.php:158
+#: includes/settings/class-wpsc-pt-settings.php:123
+msgid "Unauthorized access!"
+msgstr ""
+
+#: includes/class-wpsc-print-license.php:113
+#: includes/class-wpsc-print-license.php:163
+msgid "Bad request!"
+msgstr ""
+
+#: includes/settings/class-wpsc-pt-settings-general.php:57
+msgid "Thank you page print button"
+msgstr "Página de agradecimiento botón de impresión"
+
+#: includes/settings/class-wpsc-pt-settings-general.php:66
+msgid "Print button Label"
+msgstr "Etiqueta Botón de impresión"
+
+#: includes/settings/class-wpsc-pt-settings-general.php:72
+msgid "Allow to customer"
+msgstr "Permitir a cliente"
+
+#: includes/settings/class-wpsc-pt-settings-general.php:81
+msgid "Library"
+msgstr ""
+
+#: includes/settings/class-wpsc-pt-settings-general.php:84
+msgid "DOMPDF"
+msgstr ""
+
+#: includes/settings/class-wpsc-pt-settings-general.php:85
+msgid "TCPDF"
+msgstr ""
+
+#: includes/settings/class-wpsc-pt-settings-template.php:90
+msgid "Header height (px)"
+msgstr "Altura del encabezado (px)"
+
+#: includes/settings/class-wpsc-pt-settings-template.php:96
+msgid "Header font size (px)"
+msgstr "Tamaño de fuente del encabezado (px)"
+
+#: includes/settings/class-wpsc-pt-settings-template.php:103
+msgid "Header"
+msgstr "Encabezado"
+
+#: includes/settings/class-wpsc-pt-settings-template.php:128
+msgid "Body font size (px)"
+msgstr "Tamaño de fuente del cuerpo (px)"
+
+#: includes/settings/class-wpsc-pt-settings-template.php:161
+msgid "Footer height (px)"
+msgstr "Altura del pie de página (px)"
+
+#: includes/settings/class-wpsc-pt-settings-template.php:167
+msgid "Footer font size (px)"
+msgstr "Tamaño de fuente del pie de página (px)"
+
+#: includes/settings/class-wpsc-pt-settings-template.php:174
+msgid "Footer"
+msgstr "Pie de página"
+
+#: includes/settings/class-wpsc-pt-settings.php:89
+msgid "Template"
+msgstr "Plantilla"
+
+#~ msgid "SupportCandy - Print Tickets"
+#~ msgstr "SupportCandy - Tickets de impresión"
+
+#~ msgid "https://supportcandy.net/"
+#~ msgstr "https://supportcandy.net/"
+
+#~ msgid "Print ticket for SupportCandy!"
+#~ msgstr "¡Tickets de impresión para SupportCandy!"
+
+#~ msgid "SupportCandy"
+#~ msgstr "SupportCandy"

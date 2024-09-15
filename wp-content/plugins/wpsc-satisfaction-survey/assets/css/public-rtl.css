@@ -1,0 +1,15 @@
+#wpsc-sf-ratings{
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 15px;
+}
+
+.wpsc-rating-item {
+	display: flex;
+	padding: 5px 10px;
+}
+
+.wpsc-rating-item .wpsc-tag {
+	margin: 0px;
+	cursor: pointer;
+}

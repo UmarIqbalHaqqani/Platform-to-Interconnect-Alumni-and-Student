@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpsc-reports\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-19 22:20+0800\n"
+"PO-Revision-Date: 2022-08-23 10:57+0530\n"
+"Last-Translator: Alen Lin\n"
+"Language-Team: Chinese (Taiwan)\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 131509\n"
+"X-Loco-Api-Version: 1.0.26 20220711-1\n"
+
+#: includes/class-wpsc-rp-admin-submenu.php:71
+#: includes/class-wpsc-rp-admin-submenu.php:72
+#: includes/class-wpsc-rp-admin-submenu.php:167
+#: includes/class-wpsc-rp-settings.php:114 loco:62ff9c4554a8067dab0d6071
+msgid "Reports"
+msgstr "報表"
+
+#: includes/class-wpsc-rp-admin-submenu.php:94
+#: includes/reports/class-wpsc-rp-ticket-statistics.php:32
+#: loco:62ff9c4554a8067dab0d6072
+msgid "Ticket Statistics"
+msgstr "案件統計"
+
+#: includes/class-wpsc-rp-admin-submenu.php:104
+#: includes/reports/class-wpsc-rp-response-delay.php:32
+#: loco:62ff9c4554a8067dab0d6073
+msgid "Response Delay"
+msgstr "回應延遲"
+
+#: includes/class-wpsc-rp-admin-submenu.php:114
+#: includes/reports/class-wpsc-rp-closing-delay.php:32
+#: loco:62ff9c4554a8067dab0d6074
+msgid "Ticket Closing Delay"
+msgstr "案件結案延遲"
+
+#: includes/class-wpsc-rp-admin-submenu.php:124
+#: includes/reports/class-wpsc-rp-communication-gap.php:32
+#: loco:62ff9c4554a8067dab0d6075
+msgid "Communication Gap"
+msgstr "溝通隔閡差距"
+
+#: includes/class-wpsc-rp-filters.php:34 loco:62ff9c4554a8067dab0d6076
+msgid "Duration"
+msgstr "持續期間"
+
+#: includes/class-wpsc-rp-filters.php:36
+#: includes/class-wpsc-rp-settings.php:143 loco:62ff9c4554a8067dab0d6077
+msgid "Today"
+msgstr "今日"
+
+#: includes/class-wpsc-rp-filters.php:37
+#: includes/class-wpsc-rp-settings.php:144 loco:62ff9c4554a8067dab0d6078
+msgid "Yesterday"
+msgstr "昨日"
+
+#: includes/class-wpsc-rp-filters.php:38
+#: includes/class-wpsc-rp-settings.php:145 loco:62ff9c4554a8067dab0d6079
+msgid "This Week"
+msgstr "本週"
+
+#: includes/class-wpsc-rp-filters.php:39
+#: includes/class-wpsc-rp-settings.php:146 loco:62ff9c4554a8067dab0d607a
+msgid "Last Week"
+msgstr "上週"
+
+#: includes/class-wpsc-rp-filters.php:40
+#: includes/class-wpsc-rp-settings.php:147 loco:62ff9c4554a8067dab0d607b
+msgid "Last 30 Days"
+msgstr "最近30天"
+
+#: includes/class-wpsc-rp-filters.php:41
+#: includes/class-wpsc-rp-settings.php:148 loco:62ff9c4554a8067dab0d607c
+msgid "This Month"
+msgstr "本月"
+
+#: includes/class-wpsc-rp-filters.php:42
+#: includes/class-wpsc-rp-settings.php:149 loco:62ff9c4554a8067dab0d607d
+msgid "Last Month"
+msgstr "上個月"
+
+#: includes/class-wpsc-rp-filters.php:43
+#: includes/class-wpsc-rp-settings.php:150 loco:62ff9c4554a8067dab0d607e
+msgid "This Quarter"
+msgstr "本季度"
+
+#: includes/class-wpsc-rp-filters.php:44
+#: includes/class-wpsc-rp-settings.php:151 loco:62ff9c4554a8067dab0d607f
+msgid "Last Quarter"
+msgstr "上個季度"
+
+#: includes/class-wpsc-rp-filters.php:45
+#: includes/class-wpsc-rp-settings.php:152 loco:62ff9c4554a8067dab0d6080
+msgid "This Year"
+msgstr "今年"
+
+#: includes/class-wpsc-rp-filters.php:46
+#: includes/class-wpsc-rp-settings.php:153 loco:62ff9c4554a8067dab0d6081
+msgid "Last Year"
+msgstr "去年"
+
+#: includes/class-wpsc-rp-filters.php:47 includes/class-wpsc-rp-filters.php:82
+#: includes/class-wpsc-rp-filters.php:406
+#: includes/class-wpsc-rp-filters.php:492 loco:62ff9c4554a8067dab0d6082
+msgid "Custom"
+msgstr "自定義"
+
+#: includes/class-wpsc-rp-filters.php:179 loco:62ff9c4554a8067dab0d6083
+msgid "Custom Filter"
+msgstr "自定義篩選"
+
+#: includes/class-wpsc-rp-settings.php:135 loco:62ff9c4554a8067dab0d6084
+msgid "Report Settings"
+msgstr "報表設置"
+
+#: includes/class-wpsc-rp-settings.php:140 loco:62ff9c4554a8067dab0d6085
+msgid "Default Duration"
+msgstr "預設持續時間"
+
+#: includes/class-wpsc-rp-settings.php:159 loco:62ff9c4554a8067dab0d6086
+msgid "Generate reports for custom fields"
+msgstr "產出自定義欄位的報表"
+
+#: includes/class-wpsc-rp-settings.php:257
+#: includes/class-wpsc-rp-settings.php:285 loco:62ff9c4554a8067dab0d6087
+msgid "View Reports"
+msgstr "檢視報表"
+
+#: includes/reports/class-wpsc-rp-closing-delay.php:37
+#: includes/reports/class-wpsc-rp-communication-gap.php:37
+#: includes/reports/class-wpsc-rp-response-delay.php:37
+#: includes/reports/class-wpsc-rp-ticket-statistics.php:37
+#: includes/reports/custom-field-types/class-wpsc-rp-category.php:85
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:80
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:80
+#: includes/reports/custom-field-types/class-wpsc-rp-priority.php:80
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:80
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:80
+#: loco:62ff9c4554a8067dab0d6088
+msgid "From Date"
+msgstr "起始日期"
+
+#: includes/reports/class-wpsc-rp-closing-delay.php:41
+#: includes/reports/class-wpsc-rp-communication-gap.php:41
+#: includes/reports/class-wpsc-rp-response-delay.php:41
+#: includes/reports/class-wpsc-rp-ticket-statistics.php:41
+#: includes/reports/custom-field-types/class-wpsc-rp-category.php:89
+#: includes/reports/custom-field-types/class-wpsc-rp-checkbox.php:84
+#: includes/reports/custom-field-types/class-wpsc-rp-multi-select.php:84
+#: includes/reports/custom-field-types/class-wpsc-rp-priority.php:84
+#: includes/reports/custom-field-types/class-wpsc-rp-radio-button.php:84
+#: includes/reports/custom-field-types/class-wpsc-rp-single-select.php:84
+#: loco:62ff9c4554a8067dab0d6089
+msgid "To Date"
+msgstr "迄今為止"
+
+#: includes/reports/class-wpsc-rp-closing-delay.php:66
+#: loco:62ff9c4554a8067dab0d608a
+msgid "Average Closing Delay (Days)"
+msgstr "平均結案延遲（天）"
+
+#: includes/reports/class-wpsc-rp-communication-gap.php:66
+#: loco:62ff9c4554a8067dab0d608b
+msgid "Average communication gap for this period"
+msgstr "此期間的平均溝通差距"
+
+#: includes/reports/class-wpsc-rp-response-delay.php:66
+#: loco:62ff9c4554a8067dab0d608c
+msgid "First Response Delay (Hours)"
+msgstr "第一個回應延遲時間(小時)"
+
+#: includes/reports/class-wpsc-rp-response-delay.php:67
+#: loco:62ff9c4554a8067dab0d608d
+msgid "Average Response Delay (Hours)"
+msgstr "平均回應延遲時間(小時)"
+
+#: includes/reports/class-wpsc-rp-ticket-statistics.php:66
+#: loco:62ff9c4554a8067dab0d608e
+msgid "Total tickets created"
+msgstr "案件建立總數"
+
+#: includes/reports/class-wpsc-rp-ticket-statistics.php:67
+#: loco:62ff9c4554a8067dab0d608f
+msgid "Total tickets closed"
+msgstr "案件結案總數"
+
+#. Plugin Name of the plugin/theme
+#: loco:62ff9c4554a8067dab0d6090
+msgid "SupportCandy - Reports"
+msgstr "報表系統"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+#: loco:62ff9c4554a8067dab0d6091
+msgid "https://supportcandy.net/"
+msgstr "https://supportcandy.net/"
+
+#. Description of the plugin/theme
+#: loco:62ff9c4554a8067dab0d6092
+msgid "Reports for SupportCandy"
+msgstr "報表系統外掛套件"
+
+#. Author of the plugin/theme
+#: loco:62ff9c4554a8067dab0d6093
+msgid "SupportCandy"
+msgstr "客服系統"

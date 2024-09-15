@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpsc-sf\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-07 10:08+0530\n"
+"PO-Revision-Date: 2023-07-07 10:25+0530\n"
+"Last-Translator: Alen Lin\n"
+"Language-Team: Chinese (Taiwan)\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 131510\n"
+"X-Loco-Api-Version: 1.0.26 20220711-1\n"
+
+#: class-wpsc-sf-installation.php:146 class-wpsc-sf-installation.php:359
+#: includes/admin/settings/class-wpsc-sf-submenu.php:73
+msgid "Rating"
+msgstr "評分"
+
+#: class-wpsc-sf-installation.php:158
+#: includes/admin/settings/class-wpsc-sf-submenu.php:74
+msgid "Feedback"
+msgstr "意見反饋"
+
+#: class-wpsc-sf-installation.php:170
+msgid "Feedback Date"
+msgstr "意見反饋日期"
+
+#: class-wpsc-sf-installation.php:190
+msgid "Terrible"
+msgstr "糟糕的"
+
+#: class-wpsc-sf-installation.php:205
+msgid "Bad"
+msgstr "不好的"
+
+#: class-wpsc-sf-installation.php:220
+msgid "Okey"
+msgstr "好的"
+
+#: class-wpsc-sf-installation.php:235
+msgid "Good"
+msgstr "良好"
+
+#: class-wpsc-sf-installation.php:250
+msgid "Excellent"
+msgstr "優秀的"
+
+#: includes/admin/email-notifications/class-wpsc-feedback-notification.php:39
+msgid "Feedback added"
+msgstr "添加了意見反饋"
+
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:41
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:61
+#: includes/admin/settings/class-wpsc-satisfaction-survey-settings.php:66
+msgid "Satisfaction Survey"
+msgstr "滿意度調查問卷"
+
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:55
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:141
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:184
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:223
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:372
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:419
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:454
+#: includes/admin/settings/class-wpsc-satisfaction-survey-settings.php:121
+#: includes/admin/settings/class-wpsc-sf-general-setting.php:168
+#: includes/admin/settings/class-wpsc-sf-general-setting.php:200
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:44
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:88
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:170
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:218
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:312
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:365
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:436
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:501
+#: includes/admin/settings/class-wpsc-sf-submenu.php:136
+#: includes/admin/widget/class-wpsc-tw-rating.php:106
+#: includes/admin/widget/class-wpsc-tw-rating.php:201
+#: includes/class-wpsc-sf-license.php:108
+#: includes/class-wpsc-sf-license.php:158
+msgid "Unauthorized access!"
+msgstr ""
+
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:70
+#: includes/admin/email-notifications/class-wpsc-sf-email-templates.php:251
+msgid "Days after closing"
+msgstr "關閉後幾天"
+
+#: includes/admin/settings/class-wpsc-satisfaction-survey-settings.php:87
+msgid "Ratings"
+msgstr "評分"
+
+#: includes/admin/settings/class-wpsc-sf-general-setting.php:59
+msgid "Survey page"
+msgstr "問卷頁面"
+
+#: includes/admin/settings/class-wpsc-sf-general-setting.php:78
+msgid "Trigger survey when customer close ticket"
+msgstr "客戶案件結案時觸發問卷調查"
+
+#: includes/admin/settings/class-wpsc-sf-general-setting.php:87
+msgid "Closed statuses to enable survey"
+msgstr "關閉狀態以啟用調查"
+
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:129
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:269
+msgid "Confirmation text"
+msgstr "確認文字"
+
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:378
+msgid "Delete rating"
+msgstr "刪除評分"
+
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:386
+msgid "Replace with"
+msgstr "替換為"
+
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:411
+msgid "Submit"
+msgstr "提交"
+
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:414
+msgid "Cancel"
+msgstr "取消"
+
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:445
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:450
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:455
+#: includes/admin/settings/class-wpsc-sf-rating-setting.php:460
+#: includes/admin/widget/class-wpsc-tw-rating.php:206
+#: includes/class-wpsc-sf-license.php:113
+#: includes/class-wpsc-sf-license.php:163
+#: includes/reports/class-wpsc-rp-rating.php:71
+#: includes/reports/class-wpsc-rp-rating.php:85
+#: includes/reports/class-wpsc-rp-rating.php:139
+#: includes/reports/class-wpsc-rp-rating.php:170
+msgid "Bad request!"
+msgstr ""
+
+#: includes/admin/settings/class-wpsc-sf-submenu.php:30
+#: includes/admin/settings/class-wpsc-sf-submenu.php:31
+#: includes/admin/settings/class-wpsc-sf-submenu.php:48
+msgid "Customer Feedback"
+msgstr "客戶的反饋意見"
+
+#: includes/admin/settings/class-wpsc-sf-submenu.php:55
+msgid "All ratings"
+msgstr "所有評分"
+
+#: includes/admin/settings/class-wpsc-sf-submenu.php:71
+msgid "Ticket"
+msgstr ""
+
+#: includes/admin/widget/class-wpsc-tw-rating.php:134
+msgid "Allowed for customer"
+msgstr "允許客戶"
+
+#: includes/admin/widget/class-wpsc-tw-rating.php:273
+#: includes/class-wpsc-shortcode-sf.php:88
+msgid "Feedback (Optional)"
+msgstr "反饋（選項）"
+
+#: includes/class-wpsc-sf-actions.php:39
+msgid "Satisfaction survey links"
+msgstr "滿意度調查鏈接"
+
+#: includes/class-wpsc-sf-actions.php:44
+msgid "Satisfaction survey url"
+msgstr "滿意度調查網址"
+
+#: includes/class-wpsc-sf-frontend.php:58
+msgid "Please select a rating before submitting!"
+msgstr ""
+
+#: includes/class-wpsc-shortcode-sf.php:49
+msgid "Access denied!"
+msgstr ""
+
+#: includes/class-wpsc-shortcode-sf.php:50
+msgid ""
+"You do not have permission to rate this ticket because of the following "
+"reasons:"
+msgstr ""
+
+#: includes/class-wpsc-shortcode-sf.php:52
+msgid "You are not a creator of the ticket."
+msgstr ""
+
+#: includes/class-wpsc-shortcode-sf.php:53
+msgid "The ticket is not closed."
+msgstr ""
+
+#: includes/reports/class-wpsc-rp-rating.php:149
+msgid "Unauthorized"
+msgstr ""
+
+#~ msgid "SupportCandy - Satisfaction Survey"
+#~ msgstr "滿意度調查系統"
+
+#~ msgid "https://supportcandy.net/"
+#~ msgstr "https://supportcandy.net/"
+
+#~ msgid "Satisfaction Survey addon for SupportCandy"
+#~ msgstr "滿意度調查外掛套件"
+
+#~ msgid "SupportCandy"
+#~ msgstr "客服系統"

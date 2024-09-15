@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpsc-st\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-19 22:56+0800\n"
+"PO-Revision-Date: 2022-08-23 11:11+0530\n"
+"Last-Translator: Alen Lin\n"
+"Language-Team: Chinese (Taiwan)\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 131514\n"
+"X-Loco-Api-Version: 1.0.26 20220711-1\n"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:337
+#: loco:62ffa4b924961a0ef21a5871
+msgid "Recurrence Settings"
+msgstr "循環設置"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:341
+#: includes/class-wpsc-st-ag-settings.php:205 loco:62ffa4b924961a0ef21a5872
+msgid "Recurrence period"
+msgstr "循環周期"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:344
+#: includes/class-wpsc-st-ag-settings.php:208 loco:62ffa4b924961a0ef21a5873
+msgid "Daily"
+msgstr "每日"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:345
+#: includes/class-wpsc-st-ag-settings.php:209 loco:62ffa4b924961a0ef21a5874
+msgid "Weekly"
+msgstr "每週"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:346
+#: includes/class-wpsc-st-ag-settings.php:210 loco:62ffa4b924961a0ef21a5875
+msgid "Monthly"
+msgstr "每月"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:347
+#: includes/class-wpsc-st-ag-settings.php:211 loco:62ffa4b924961a0ef21a5876
+msgid "Yearly"
+msgstr "每年"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:361
+#: includes/class-wpsc-st-ag-settings.php:225 loco:62ffa4b924961a0ef21a5877
+msgid "Settings for daily recurrence"
+msgstr "每日循環的設置"
+
+#. translators: %1$s: Every x day
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:367
+#: includes/class-wpsc-st-ag-settings.php:231 loco:62ffa4b924961a0ef21a5878
+#, php-format
+msgid "Every %1$s day(s)"
+msgstr "每 %1$s 天"
+
+#. translators: %1$s: Every x work day
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:373
+#: includes/class-wpsc-st-ag-settings.php:237 loco:62ffa4b924961a0ef21a5879
+#, php-format
+msgid "Every %1$s work day(s)"
+msgstr "每 %1$s 工作日"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:379
+#: includes/class-wpsc-st-ag-settings.php:243 loco:62ffa4b924961a0ef21a587a
+msgid "Settings for weekly recurrence"
+msgstr "每周循環的設置"
+
+#. translators: %1$s: Every x week(s)
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:386
+#: includes/class-wpsc-st-ag-settings.php:248 loco:62ffa4b924961a0ef21a587b
+#, php-format
+msgid "Every %1$s week(s) on"
+msgstr "每 %1$s 週於"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:408
+#: includes/class-wpsc-st-ag-settings.php:270 loco:62ffa4b924961a0ef21a587c
+msgid "Settings for monthly recurrence"
+msgstr "每月循環的設置"
+
+#. translators: %1$s: Every x month(s), %2$s : days
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:417
+#: includes/class-wpsc-st-ag-settings.php:279 loco:62ffa4b924961a0ef21a587d
+#, php-format
+msgid "Every %1$s month(s) on day %2$s"
+msgstr "每 %1$s 月於日期 %2$s"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:425
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:487
+#: includes/class-wpsc-st-ag-settings.php:287
+#: includes/class-wpsc-st-ag-settings.php:348 loco:62ffa4b924961a0ef21a587e
+msgid "First"
+msgstr "第一"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:426
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:488
+#: includes/class-wpsc-st-ag-settings.php:288
+#: includes/class-wpsc-st-ag-settings.php:349 loco:62ffa4b924961a0ef21a587f
+msgid "Second"
+msgstr "第二"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:427
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:489
+#: includes/class-wpsc-st-ag-settings.php:289
+#: includes/class-wpsc-st-ag-settings.php:350 loco:62ffa4b924961a0ef21a5880
+msgid "Third"
+msgstr "第三"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:428
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:490
+#: includes/class-wpsc-st-ag-settings.php:290
+#: includes/class-wpsc-st-ag-settings.php:351 loco:62ffa4b924961a0ef21a5881
+msgid "Fourth"
+msgstr "第四"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:429
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:491
+#: includes/class-wpsc-st-ag-settings.php:291
+#: includes/class-wpsc-st-ag-settings.php:352 loco:62ffa4b924961a0ef21a5882
+msgid "Last"
+msgstr "最後的"
+
+#. translators: %1$s: Every x month(s), %2$s: week, %3$s: day
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:450
+#: includes/class-wpsc-st-ag-settings.php:311 loco:62ffa4b924961a0ef21a5883
+#, php-format
+msgid "Every %1$s month(s) on day %2$s %3$s"
+msgstr "每 %1$s 月於日期 %2$s %3$s"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:456
+#: includes/class-wpsc-st-ag-settings.php:317 loco:62ffa4b924961a0ef21a5884
+msgid "Settings for yearly recurrence"
+msgstr "年度循環的設置"
+
+#. translators: %1$s: Every x year(s), %2$s: day, %3$s: month
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:479
+#: includes/class-wpsc-st-ag-settings.php:340 loco:62ffa4b924961a0ef21a5885
+#, php-format
+msgid "Every %1$s year(s) on day %2$s of %3$s"
+msgstr "每 %1$s 年於日期 %2$s of %3$s"
+
+#. translators: %1$s: Every x year(s), %2$s: week, %3$s: day, %4$s: month
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:524
+#: includes/class-wpsc-st-ag-settings.php:385 loco:62ffa4b924961a0ef21a5886
+#, php-format
+msgid "Every %1$s year(s) on day %2$s %3$s of %4$s"
+msgstr "每 %1$s 年於日期 %2$s %3$s of %4$s"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:530
+#: includes/class-wpsc-st-ag-settings.php:391 loco:62ffa4b924961a0ef21a5887
+msgid "Starts on"
+msgstr "開始於"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:538
+#: includes/class-wpsc-st-ag-settings.php:399 loco:62ffa4b924961a0ef21a5888
+msgid "Ends on"
+msgstr "結束於"
+
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:542
+#: includes/class-wpsc-st-ag-settings.php:403 loco:62ffa4b924961a0ef21a5889
+msgid "No end date"
+msgstr "沒有結束日期"
+
+#. translators: %1$s: Ends after x times
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:548
+#: includes/class-wpsc-st-ag-settings.php:409 loco:62ffa4b924961a0ef21a588a
+#, php-format
+msgid "Ends after %1$s times"
+msgstr "在 %1$s 時結束"
+
+#. translators: %1$s: Ends on x day
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:554
+#: includes/class-wpsc-st-ag-settings.php:415 loco:62ffa4b924961a0ef21a588b
+#, php-format
+msgid "Ends on %1$s"
+msgstr "結束於 %1$s"
+
+#. translators: %1$s: Name, %2$s: Email Address
+#: includes/admin/settings/class-wpsc-st-settings-crud.php:579
+#: loco:62ffa4b924961a0ef21a588c
+#, php-format
+msgid "%1$s (%2$s)"
+msgstr "%1$s (%2$s)"
+
+#: includes/admin/settings/class-wpsc-st-settings-general.php:53
+#: loco:62ffa4b924961a0ef21a588d
+msgid "Schedule from existing ticket"
+msgstr "從現有案件排程"
+
+#: includes/admin/settings/class-wpsc-st-settings.php:55
+#: includes/admin/settings/class-wpsc-st-settings.php:76
+#: loco:62ffa4b924961a0ef21a588e
+msgid "Schedule Tickets"
+msgstr "排程案件"
+
+#: includes/class-wpsc-st-ag-settings.php:44
+#: includes/class-wpsc-st-ag-settings.php:157 loco:62ffa4b924961a0ef21a588f
+msgid "Schedule Ticket"
+msgstr "排程案件"
+
+#: includes/class-wpsc-st-ag-settings.php:57
+#: includes/class-wpsc-st-ag-settings.php:87 loco:62ffa4b924961a0ef21a5890
+msgid "Modify scheduled ticket"
+msgstr "編輯排程案件"
+
+#: includes/class-wpsc-st-ag-settings.php:125 loco:62ffa4b924961a0ef21a5891
+msgid "Schedule"
+msgstr "排程"
+
+#: includes/class-wpsc-st-ag-settings.php:522 loco:62ffa4b924961a0ef21a5892
+msgid "Please insert title"
+msgstr "請插入標題"
+
+#: includes/class-wpsc-st-ag-settings.php:735 loco:62ffa4b924961a0ef21a5893
+msgid "No description found!"
+msgstr "找不到描述！"
+
+#. Plugin Name of the plugin/theme
+#: loco:62ffa4b924961a0ef21a5894
+msgid "SupportCandy - Schedule Tickets"
+msgstr "排程案件"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+#: loco:62ffa4b924961a0ef21a5895
+msgid "https://supportcandy.net/"
+msgstr "https://supportcandy.net/"
+
+#. Description of the plugin/theme
+#: loco:62ffa4b924961a0ef21a5896
+msgid "Create recurring tickets for customers with set ticket details"
+msgstr "使用設定的案件詳細信息為客戶建立循環的案件"
+
+#. Author of the plugin/theme
+#: loco:62ffa4b924961a0ef21a5897
+msgid "SupportCandy"
+msgstr "客服系統"
